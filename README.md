@@ -10,7 +10,7 @@
 
 <div align="center">
 
-## [![Taurus-Bot](https://readme-typing-svg.herokuapp.com?font=Comix+Loud&color=B62EE0&lines=Welcome+to+Taurus+WA+Bot+repo;Created+by+MUHAMMED;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/3wNuiez)
+## [![Taurus-Bot](https://readme-typing-svg.herokuapp.com?font=Comix+Loud&color=B62EE0&lines=Welcome+to+Taurus+WA+Bot+repo;Created+by+THAHIR;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/3wNuiez)
 
  </a>
 </p>
